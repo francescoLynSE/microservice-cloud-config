@@ -34,5 +34,5 @@ eureka:
     fetchRegistry: false
     serviceUrl:
       defaultZone: http://eureka6001.com:6001/eureka/
-    server:
-      enable-self-preservation: true # 开启自我保护机制*****************
+  server:
+    enable-self-preservation: true # 开启自我保护机制*****************
